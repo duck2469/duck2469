@@ -1,5 +1,6 @@
 # About Me ![duck](https://duck2469.github.io/img/smallpato.png)
-Hi, I’m duck2469. I like to play video games, and make game mods. Woah! Anyways, vist my [website](https://duck2469.neocities.org/)
+Hi, I’m duck2469. I like to play video games, and make game mods. Woah! 
+Anyways, vist my [website](https://duck2469.neocities.org/)
 
 Thanks :D!
 
