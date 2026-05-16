@@ -4,7 +4,7 @@ Hi, I’m duck2469. I like to play video games, and make game mods. Woah!
 
 Anyways, vist my [website.](https://duck2469.neocities.org/)
 
-![alt text]([https://github.com/duck2469/duck2469/blob/632f643671812892af0300f01517921afc018de4/mario-mario-dance.gif](https://github.com/duck2469/duck2469/blob/539dc4e004dfbb12566effb9ed48c0d5ef8f0d78/nmario-dance.gif) "me irl")
+![alt text](https://raw.githubusercontent.com/duck2469/duck2469/refs/heads/main/nmario-dance.gif "me irl af ")
 
 Thanks :D
 <!---
