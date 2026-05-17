@@ -1,4 +1,4 @@
-# About Me ![duck](https://duck2469.github.io/css/img/smallpato.png)
+# About Me ![duck](https://raw.githubusercontent.com/duck2469/duck2469.github.io/refs/heads/main/css/img/smallpato.png)
 Hi, I’m duck2469. I like to play video games, and make game mods. Woah! 
 
 
